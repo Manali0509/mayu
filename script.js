@@ -347,16 +347,15 @@ function createPetals() {
 // Function to type out message
 function typeMessage() {
     const messages = [
-        `Dear ${userName},`,
-        "On your special day, I just want you to know...",
-        "Trust me, you are the most amazing person I've ever met.",
-        "Your smile brightens my darkest days.",
-        "Your voice and laugh is my favorite sound.",
-        "Your love gives me strength and happiness.",
-        "You can't even imagine how grateful I'm to have you.",
-        "Mayyu, I'm and will always be there for you specially on your worst days no matter what.",
-        "May this year brings all the joy, success and happiness you deserve.",
-        "I hope your day and year will be as special as you are.",
+        `Dear ${userName},`,        
+        "On your special day, I want you to remember how truly extraordinary you are",
+        "There’s a sparkle in the world because you exist, and it shines brighter every time you smile",
+        "Your laughter is like a song that dances through my heart, and your voice is my favorite melody.",
+        "Your love is a magical shield that gives me strength and fills my world with happiness.",
+        "I am endlessly grateful for the magic you bring into my life, more than words can ever say",
+        "Mayyu, through every twist and turn of life’s adventures, I’ll always be your loyal companion, especially when the days feel stormy.",
+        "This year, may the universe sprinkle you with boundless joy, shimmering success, and endless moments that make your heart soar.",
+        "May today and every day ahead be as enchanting and extraordinary as the beautiful soul you are",
         "Happiest Birthday, maja Monnnuuuu ❤"
     ];
     
@@ -511,6 +510,7 @@ function shareOnSocial(platform) {
         repeat: 1
     });
 }
+
 
 
 
