@@ -351,11 +351,12 @@ function typeMessage() {
         "On your special day, I just want you to know...",
         "Trust me, you are the most amazing person I've ever met.",
         "Your smile brightens my darkest days.",
-        "Your laugh is my favorite sound in the world.",
+        "Your voice and laugh is my favorite sound.",
         "Your love gives me strength and happiness.",
-        "I'm so grateful to have you in my life.",
+        "You can't even imagine how grateful I'm to have you.",
+        "Mayyu, I'm and will always be there for you specially on your worst days no matter what.",
         "May this year brings all the joy, success and happiness you deserve.",
-        "I hope your day is as special as you are.",
+        "I hope your day and year will be as special as you are.",
         "Happiest Birthday, maja Monnnuuuu ❤"
     ];
     
@@ -510,5 +511,6 @@ function shareOnSocial(platform) {
         repeat: 1
     });
 }
+
 
 
